@@ -1,5 +1,5 @@
 # 🧠 NeuroSpark: Flash Fusion
-## Your Intelligent, Immersive, and Interactive Flashcard Learning Companion.
+### Your Intelligent, Immersive, and Interactive Flashcard Learning Companion.
 ![Alt Text](./images%20for%20readme/main.png)
 
 
@@ -11,7 +11,7 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 
 ## 🎯 Key Features 
 
-## 🧠 Adaptive Learning Engine
+### 🧠 Adaptive Learning Engine
 - Smart Spaced Repetition Algorithm (SRS) to boost memory
 
 - Difficulty auto-adjusts based on user feedback
@@ -19,7 +19,7 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 - Personalized daily review queues
   ![Alt Text](./images%20for%20readme/dashboard[1].png)
 
-## 🃏 Flashcard Magic
+### 🃏 Flashcard Magic
 - Create, edit, and manage multiple Decks
 
 - Beautiful flip animations on cards
@@ -27,19 +27,19 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 - Completion dialog with celebratory confetti
 - ![Alt Text](./images%20for%20readme/crud.png)
 
-## 📊 Stats & Visual Learning
+### 📊 Stats & Visual Learning
 - Interactive charts: line graph, bar stats, and Study Heatmap
 
 - Completion percentage, daily goals, streak counters
   
 ![Alt Text](./images%20for%20readme/stats.png) <br>
-## 🌈Interactive Graph
+### 🌈Interactive Graph
 - View performance trends across time and decks
 - Interactive Graphs and Study HeatMaps
 
 ![Alt Text](./images%20for%20readme/statsgraph.png)
 
-## 💅Fluid UI
+### 💅Fluid UI
 - Cursor trails, hover animations, and smooth transitions
 
 - Responsive Dark/Light mode toggle with full accessibility
