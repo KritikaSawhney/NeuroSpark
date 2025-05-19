@@ -1,6 +1,6 @@
 # 🧠 NeuroSpark: Flash Fusion
 Your Intelligent, Immersive, and Interactive Flashcard Learning Companion
-![Alt Text](./images%20for%20readme/dashboard.png)
+![Alt Text](./images%20for%20readme/main.png)
 
 
 ## ✨<b> Overview </b>
