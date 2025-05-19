@@ -6,8 +6,7 @@
 ## ✨<b> Outline </b>
 
 NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based learning application designed to boost memory retention through adaptive spaced repetition and stunning UI/UX. Built for fast-paced learners, visual thinkers, and productivity enthusiasts, it combines smart learning algorithms with beautiful animations and cutting-edge web technologies.
-
-🔮 With a mix of smooth micro-interactions, animated transitions, and gamified review flows, NeuroSpark makes studying feel less like a chore and more like a dopamine hit.
+ With a mix of smooth micro-interactions, animated transitions, and gamified review flows, NeuroSpark makes studying feel less like a chore and more like a dopamine hit.
 
 
 ## 🎯 Key Features 
@@ -33,11 +32,12 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 ## 📊 Stats & Visual Learning
 - Interactive charts: line graph, bar stats, and Study Heatmap
 
-- View performance trends across time and decks
-
 - Completion percentage, daily goals, streak counters
+- 
 ![Alt Text](./images%20for%20readme/stats.png) <br>
 ## 🌈Interactive Graph
+- View performance trends across time and decks
+- Interactive Graphs for fun
 
 ![Alt Text](./images%20for%20readme/statsgraph.png)
 
@@ -95,24 +95,24 @@ src/ <br>
 
 ## 🚀 Live Demo
 
-👉 Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/
+Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/
 
 ## 🧪 Local Setup
 
-git clone https://github.com/KritikaSawhney/NeuroSpark.git <br>
-cd NeuroSpark <br>
-npm install <br>
-npm run dev <br>
-💡 Built with Vite for lightning-fast development.
+- git clone https://github.com/KritikaSawhney/NeuroSpark.git <br>
+- cd NeuroSpark <br>
+- npm install <br>
+- npm run dev <br>
+Built with Vite for lightning-fast development.
 
 ## 🔐 Accessibility & Best Practices
-Semantic HTML and keyboard-accessible flows
+- Semantic HTML and keyboard-accessible flows
 
-Responsive from mobile to 4K screens
+- Responsive from mobile to 4K screens
 
-Linting and strict TypeScript support enabled
+- Linting and strict TypeScript support enabled
 
-Code splitting for fast loads
+- Code splitting for fast loads
 
 
 ## 🤝Author
