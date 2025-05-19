@@ -1,5 +1,7 @@
 # 🧠 NeuroSpark: Flash Fusion
 Your Intelligent, Immersive, and Interactive Flashcard Learning Companion
+![Alt Text](./images%20for%20readme/dashboard.png)
+
 
 ## ✨<b> Overview </b>
 
@@ -57,7 +59,7 @@ Parallax motion, entrance animations (AOS/Framer Motion)
 ## 📁 <b> Folder Structure </b>
 
 src/ <br> 
-├── components/
+├── components/                <br>
 │   ├── deck/                  <br>
 │   ├── flashcard/             <br>
 │   ├── layout/                <br>
@@ -121,7 +123,7 @@ src/ <br>
 ![Alt Text](./images%20for%20readme/destinations.png)
 ## 🚀 Live Demo
 
-👉 Visit TripTrove on Vercel : https://triptrove12.vercel.app/
+👉 Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/stats
 
 ## 🧪 Local Setup
 
