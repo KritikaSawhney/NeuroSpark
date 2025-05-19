@@ -36,10 +36,12 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 - View performance trends across time and decks
 
 - Completion percentage, daily goals, streak counters
-![Alt Text](./images%20for%20readme/stats.png)
+![Alt Text](./images%20for%20readme/stats.png) <br>
+## 🌈Interactive Graph
+
 ![Alt Text](./images%20for%20readme/statsgraph.png)
 
-## 💅 Aesthetic & Fluid UI
+## 💅Fluid UI
 - Cursor trails, hover animations, and smooth transitions
 
 - Responsive Dark/Light mode toggle with full accessibility
@@ -79,26 +81,26 @@ src/ <br>
 
 
 ## 🌈 Visual Details & Effects
-✨ Flip Animations for Flashcards
+- Flip Animations for Flashcards
 
-🎉 Confetti celebration on review completion
+- Confetti celebration on review completion
 
-🌘 Fully integrated dark/light mode
+- Fully integrated dark/light mode
 
-👆 Cursor-following animated trail
+- Cursor-following animated trail
 
-📈 Dynamic study heatmap with gradients
+- Dynamic study heatmap with gradients
 
-💨 Slide-in/scroll reveal transitions for every component
+- Slide-in/scroll reveal transitions for every component
 
 ## 🚀 Live Demo
 
-👉 Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/stats
+👉 Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/
 
 ## 🧪 Local Setup
 
 git clone https://github.com/KritikaSawhney/NeuroSpark.git <br>
-cd cd NeuroSpark <br>
+cd NeuroSpark <br>
 npm install <br>
 npm run dev <br>
 💡 Built with Vite for lightning-fast development.
