@@ -1,48 +1,53 @@
 # 🧠 NeuroSpark: Flash Fusion
-Your Intelligent, Immersive, and Interactive Flashcard Learning Companion
+## Your Intelligent, Immersive, and Interactive Flashcard Learning Companion.
 ![Alt Text](./images%20for%20readme/main.png)
 
 
-## ✨<b> Overview </b>
+## ✨<b> Outline </b>
 
 NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based learning application designed to boost memory retention through adaptive spaced repetition and stunning UI/UX. Built for fast-paced learners, visual thinkers, and productivity enthusiasts, it combines smart learning algorithms with beautiful animations and cutting-edge web technologies.
 
 🔮 With a mix of smooth micro-interactions, animated transitions, and gamified review flows, NeuroSpark makes studying feel less like a chore and more like a dopamine hit.
 
 
-## 🎯 Features 
+## 🎯 Key Features 
 
-### 🧠 Adaptive Learning Engine
-Smart Spaced Repetition Algorithm (SRS) to boost memory
+## 🧠 Adaptive Learning Engine
+- Smart Spaced Repetition Algorithm (SRS) to boost memory
 
-Difficulty auto-adjusts based on user feedback
+- Difficulty auto-adjusts based on user feedback
 
-Personalized daily review queues
+- Personalized daily review queues
+  ![Alt Text](./images%20for%20readme/dashboard[1].png)
 
-### 🃏 Flashcard Magic
-Create, edit, and manage multiple Decks
+## 🃏 Flashcard Magic
+- Create, edit, and manage multiple Decks
 
-Beautiful flip animations on cards
+- Beautiful flip animations on cards
 
-Review mode with "Know" / "Don't Know" feedback buttons
+- Review mode with "Know" / "Don't Know" feedback buttons
 
-Completion dialog with celebratory confetti
+- Completion dialog with celebratory confetti
+- ![Alt Text](./images%20for%20readme/crud.png)
 
-### 📊 Stats & Visual Learning
-Interactive charts: line graph, bar stats, and Study Heatmap
+## 📊 Stats & Visual Learning
+- Interactive charts: line graph, bar stats, and Study Heatmap
 
-View performance trends across time and decks
+- View performance trends across time and decks
 
-Completion percentage, daily goals, streak counters
+- Completion percentage, daily goals, streak counters
+![Alt Text](./images%20for%20readme/stats.png)
+![Alt Text](./images%20for%20readme/statsgraph.png)
 
-### 💅 Aesthetic & Fluid UI
-Cursor trails, hover animations, and smooth transitions
+## 💅 Aesthetic & Fluid UI
+- Cursor trails, hover animations, and smooth transitions
 
-Responsive Dark/Light mode toggle with full accessibility
+- Responsive Dark/Light mode toggle with full accessibility
 
-Parallax motion, entrance animations (AOS/Framer Motion)
+- Parallax motion, entrance animations (AOS/Framer Motion)
 
-404 page with stylish fallback design
+- 404 page with stylish fallback design
+![Alt Text](./images%20for%20readme/appearnce.png)
 
 ## 🔧 <b> Tech Stack </b>
 
@@ -86,41 +91,6 @@ src/ <br>
 
 💨 Slide-in/scroll reveal transitions for every component
 
-
-
-## 📸 <b> Screenshots </b>
-
-## 💻 Dashboard:
-![Alt Text](./images%20for%20readme/dashboard.png)
-
-
-
-
-## 🌄 Features:
-![Alt Text](./images%20for%20readme/features_page.png)
-
-
-
-
-## 🏙️ Packing List:
-![Alt Text](./images%20for%20readme/packing_list.png)
-
-
-
-## 📊 Budget Tracker & Currency Converter:
-![Alt Text](./images%20for%20readme/currency_convertor.png)
-![Alt Text](./images%20for%20readme/budget_tracker.png)
-
-
-## 📸 Travel Gallery:
-![Alt Text](./images%20for%20readme/travel_gallery.png)
-
-## 🌄My travels:
-![Alt Text](./images%20for%20readme/my_travels.png)
-
-
-## 🌟Destinations:
-![Alt Text](./images%20for%20readme/destinations.png)
 ## 🚀 Live Demo
 
 👉 Visit TripTrove on Vercel : https://neuro-spark-w9nd.vercel.app/stats
