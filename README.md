@@ -33,11 +33,11 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 - Interactive charts: line graph, bar stats, and Study Heatmap
 
 - Completion percentage, daily goals, streak counters
-- 
+  
 ![Alt Text](./images%20for%20readme/stats.png) <br>
 ## 🌈Interactive Graph
 - View performance trends across time and decks
-- Interactive Graphs for fun
+- Interactive Graphs and Study HeatMaps
 
 ![Alt Text](./images%20for%20readme/statsgraph.png)
 
@@ -48,7 +48,6 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 
 - Parallax motion, entrance animations (AOS/Framer Motion)
 
-- 404 page with stylish fallback design
 ![Alt Text](./images%20for%20readme/appearnce.png)
 
 ## 🔧 <b> Tech Stack </b>
