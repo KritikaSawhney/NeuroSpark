@@ -24,8 +24,6 @@ NeuroSpark: Flash Fusion is a next-gen, fully frontend-powered flashcard-based l
 
 - Beautiful flip animations on cards
 
-- Review mode with "Know" / "Don't Know" feedback buttons
-
 - Completion dialog with celebratory confetti
 - ![Alt Text](./images%20for%20readme/crud.png)
 
