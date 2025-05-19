@@ -58,17 +58,17 @@ Parallax motion, entrance animations (AOS/Framer Motion)
 
 src/ <br> 
 ├── components/
-│   ├── deck/                  # Deck creation & view components <br? 
-│   ├── flashcard/             # Flashcard review and UI <br>
-│   ├── layout/                # Main layout + sidebar <br>
-│   ├── stats/                 # Charts, overview, heatmaps <br>
-│   └── ui/                    # Theme toggle, shared UI <br>
-├── hooks/                     # Custom reusable hooks <br>
-├── lib/                       # Utility logic and helper functions <br>
-├── pages/                     # Index, NotFound, Settings <br>
-├── types/                     # TypeScript types <br>
-├── utils/                     # Confetti, SRS algo, localStorage <br>
-├── App.tsx, main.tsx          # Entry points <br>
+│   ├── deck/                  <br>
+│   ├── flashcard/             <br>
+│   ├── layout/                <br>
+│   ├── stats/                 <br>
+│   └── ui/                    <br>
+├── hooks/                     <br>
+├── lib/                       <br>
+├── pages/                     <br>
+├── types/                     <br>
+├── utils/                     <br>
+├── App.tsx, main.tsx          <br>
 
 
 ## 🌈 Visual Details & Effects
@@ -125,8 +125,8 @@ src/ <br>
 
 ## 🧪 Local Setup
 
-git clone https://github.com/your-username/neurospark-flash-fusion.git <br>
-cd cd neurospark-flash-fusion <br>
+git clone https://github.com/KritikaSawhney/NeuroSpark.git <br>
+cd cd NeuroSpark <br>
 npm install <br>
 npm run dev <br>
 💡 Built with Vite for lightning-fast development.
